@@ -118,6 +118,12 @@ h3 {
     padding-bottom: 10px;
 }
 
+.sliders {
+    font-family: 'Indie Flower', cursive; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 #myBtn {
     display: none;
     position: fixed;
